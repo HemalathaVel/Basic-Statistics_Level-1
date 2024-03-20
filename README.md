@@ -410,7 +410,7 @@ Dataset: wc-at.csv**
 
 3.  60% confidence interval (two-tailed):
 •   The Z-value for a 60% confidence interval, approximate value is ± 0.8416
-      ![image](https://github.com/HemalathaVel/Basic_Statistics_Level-1.docx/assets/154992818/62546c41-23e2-4977-8187-aef3ea509e01)
+     
 
 
 **Q 23) Calculate the t scores of 95% confidence interval, 96% confidence interval, 99% confidence interval for sample size of 25**
